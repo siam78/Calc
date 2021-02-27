@@ -1,6 +1,7 @@
 
     #include <stdio.h>
-    int main() {
+    int main() 
+    {
     char operator;
     double x,y;
     printf("Enter an operator (+, -, *,/): ");
