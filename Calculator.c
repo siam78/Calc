@@ -9,7 +9,8 @@
     printf("Enter two operands: ");
     scanf("%lf%lf",&x,&y);
 
-    switch (operator) {
+    switch (operator) 
+    {
     case '+':
         printf("%.1lf + %.1lf = %.1lf",x,y,x + y);
         break;
